@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkvleppo_webapp=self.webpackChunkvleppo_webapp||[]).push([[724],{8724:function(e,p,n){n.r(p);n(2791);var u=n(184);p.default=function(){return(0,u.jsx)("div",{children:"404"})}}}]);
+//# sourceMappingURL=724.d1942a3b.chunk.js.map
