@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vleppo-webapp-build/static/css/main.31d6cfe0.css",
-    "main.js": "/vleppo-webapp-build/static/js/main.83b232ec.js",
+    "main.js": "/vleppo-webapp-build/static/js/main.c25f8c21.js",
     "static/js/636.7829f5c8.chunk.js": "/vleppo-webapp-build/static/js/636.7829f5c8.chunk.js",
     "static/js/44.44070170.chunk.js": "/vleppo-webapp-build/static/js/44.44070170.chunk.js",
     "static/js/42.e444c504.chunk.js": "/vleppo-webapp-build/static/js/42.e444c504.chunk.js",
@@ -42,7 +42,7 @@
     "static/media/logo.jpg": "/vleppo-webapp-build/static/media/logo.36642c8c2eaa3bc9b243.jpg",
     "index.html": "/vleppo-webapp-build/index.html",
     "static/media/apple-logo.svg": "/vleppo-webapp-build/static/media/apple-logo.c4de8afe858fbd960d4e7c898b12f859.svg",
-    "main.83b232ec.js.map": "/vleppo-webapp-build/static/js/main.83b232ec.js.map",
+    "main.c25f8c21.js.map": "/vleppo-webapp-build/static/js/main.c25f8c21.js.map",
     "636.7829f5c8.chunk.js.map": "/vleppo-webapp-build/static/js/636.7829f5c8.chunk.js.map",
     "44.44070170.chunk.js.map": "/vleppo-webapp-build/static/js/44.44070170.chunk.js.map",
     "42.e444c504.chunk.js.map": "/vleppo-webapp-build/static/js/42.e444c504.chunk.js.map",
@@ -81,6 +81,6 @@
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.83b232ec.js"
+    "static/js/main.c25f8c21.js"
   ]
 }
