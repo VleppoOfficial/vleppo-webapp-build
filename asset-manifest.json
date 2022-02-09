@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/vleppo-webapp-build/static/css/main.31d6cfe0.css",
-    "main.js": "/vleppo-webapp-build/static/js/main.ec8ef129.js",
+    "main.js": "/vleppo-webapp-build/static/js/main.1ed3db71.js",
     "static/js/636.7829f5c8.chunk.js": "/vleppo-webapp-build/static/js/636.7829f5c8.chunk.js",
     "static/js/44.44070170.chunk.js": "/vleppo-webapp-build/static/js/44.44070170.chunk.js",
-    "static/js/42.6eb24610.chunk.js": "/vleppo-webapp-build/static/js/42.6eb24610.chunk.js",
+    "static/js/42.60b0b4de.chunk.js": "/vleppo-webapp-build/static/js/42.60b0b4de.chunk.js",
     "static/js/589.7b83bb88.chunk.js": "/vleppo-webapp-build/static/js/589.7b83bb88.chunk.js",
     "static/js/724.d1942a3b.chunk.js": "/vleppo-webapp-build/static/js/724.d1942a3b.chunk.js",
     "static/js/575.68b4c676.chunk.js": "/vleppo-webapp-build/static/js/575.68b4c676.chunk.js",
@@ -44,10 +44,10 @@
     "static/media/logo.jpg": "/vleppo-webapp-build/static/media/logo.36642c8c2eaa3bc9b243.jpg",
     "index.html": "/vleppo-webapp-build/index.html",
     "static/media/apple-logo.svg": "/vleppo-webapp-build/static/media/apple-logo.c4de8afe858fbd960d4e7c898b12f859.svg",
-    "main.ec8ef129.js.map": "/vleppo-webapp-build/static/js/main.ec8ef129.js.map",
+    "main.1ed3db71.js.map": "/vleppo-webapp-build/static/js/main.1ed3db71.js.map",
     "636.7829f5c8.chunk.js.map": "/vleppo-webapp-build/static/js/636.7829f5c8.chunk.js.map",
     "44.44070170.chunk.js.map": "/vleppo-webapp-build/static/js/44.44070170.chunk.js.map",
-    "42.6eb24610.chunk.js.map": "/vleppo-webapp-build/static/js/42.6eb24610.chunk.js.map",
+    "42.60b0b4de.chunk.js.map": "/vleppo-webapp-build/static/js/42.60b0b4de.chunk.js.map",
     "589.7b83bb88.chunk.js.map": "/vleppo-webapp-build/static/js/589.7b83bb88.chunk.js.map",
     "724.d1942a3b.chunk.js.map": "/vleppo-webapp-build/static/js/724.d1942a3b.chunk.js.map",
     "575.68b4c676.chunk.js.map": "/vleppo-webapp-build/static/js/575.68b4c676.chunk.js.map",
@@ -85,6 +85,6 @@
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.ec8ef129.js"
+    "static/js/main.1ed3db71.js"
   ]
 }
